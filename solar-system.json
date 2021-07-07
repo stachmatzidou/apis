@@ -10,63 +10,63 @@
             "rings": "No"
         },
         "Venus": {
-            "distance": "108,209,475 km",
+            "distance": "108 * 10⁶ km",
             "speed": "126,074 km/h",
-            "size": "928,415,345,893 km³",
+            "size": "928 * 10⁹ km³",
             "orbit": "224.7 Earth days",
             "temperature": "465°C",
             "moons": "0",
             "rings": "No"
         },
         "Earth": {
-            "distance": "149,598,262 km",
+            "distance": "150 * 10⁶ km",
             "speed": "107,218 km/h",
-            "size": "1,083,206,916,846 km³",
-            "orbit": "0.99726968 Earth days",
+            "size": "1,083 * 10⁹ km³",
+            "orbit": "0.997 Earth days",
             "temperature": "-89°C to 58°C",
             "moons": "1",
             "rings": "No"
         },
         "Mars": {
-            "distance": "227,943,824 km",
+            "distance": "227 * 10⁶ km",
             "speed": "86,677 km/h",
-            "size": "163,115,609,799 km³",
+            "size": "163 * 10⁹ km³",
             "orbit": "1.88 Earth years",
             "temperature": "-125°C to 20°C",
             "moons": "2",
             "rings": "No"
         },
         "Jupiter": {
-            "distance": "778,340,821 km",
+            "distance": "778 * 10⁶ km",
             "speed": "47,002 km/h",
-            "size": "1,431,281,810,739,360 km³",
+            "size": "1,431,282 * 10⁹ km³",
             "orbit": "11.86 Earth years",
             "temperature": "-120°C",
             "moons": "79",
             "rings": "Yes"
         },
         "Saturn": {
-            "distance": "1,426,666,422 km",
+            "distance": "1,426 * 10⁶ km",
             "speed": "34,701 km/h",
-            "size": "827,129,915,150,897 km³",
+            "size": "827,130 * 10⁹ km³",
             "orbit": "29.4 Earth years",
             "temperature": "-125°C",
             "moons": "83",
             "rings": "Yes"
         },
         "Uranus": {
-            "distance": "2,870,658,186 km",
+            "distance": "2,870 * 10⁶ km",
             "speed": "24,477 km/h",
-            "size": "68,334,355,695,584 km³",
+            "size": "68,334 * 10⁹ km³",
             "orbit": "84 Earth years",
             "temperature": "-210°C",
             "moons": "27",
             "rings": "Yes"
         },
         "Neptune": {
-            "distance": "4,498,396,441 km",
+            "distance": "4,498 * 10⁶ km",
             "speed": "19,566 km/h",
-            "size": "62,525,703,987,421 km³",
+            "size": "62,525 * 10⁹ km³",
             "orbit": "165 Earth years",
             "temperature": "-200°C",
             "moons": "14",
