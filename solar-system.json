@@ -1,9 +1,9 @@
 [
     {
         "Mercury": {
-            "distance": "57,909,227 km",
+            "distance": "58 * 10⁶ km",
             "speed": "170,503 km/h",
-            "size": "60,827,208,742 km³",
+            "size": "61 * 10⁹ km³",
             "orbit": "59 Earth days",
             "temperature": "-170°C to 449°C",
             "moons": "0",
