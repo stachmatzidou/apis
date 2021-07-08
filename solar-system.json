@@ -1,6 +1,7 @@
 [
     {
         "Mercury": {
+            "general": "The smallest planet (slightly larger than the Earth's Moon) and the one closest to the Sun, Mercury is also the fastest planet in our Solar System .",
             "distance": "58 * 10⁶ km",
             "speed": "170,503 km/h",
             "size": "61 * 10⁹ km³",
@@ -10,6 +11,7 @@
             "rings": "No"
         },
         "Venus": {
+            "general": "The second planet from the Sun and the hottest one due to it's dence, gaseous atmosphere, which causes a greenhouse effect.",
             "distance": "108 * 10⁶ km",
             "speed": "126,074 km/h",
             "size": "928 * 10⁹ km³",
@@ -19,6 +21,7 @@
             "rings": "No"
         },
         "Earth": {
+            "general": "The third planet from the Sun and the only astronomical object known to harbor and support life. Our home.",
             "distance": "150 * 10⁶ km",
             "speed": "107,218 km/h",
             "size": "1,083 * 10⁹ km³",
@@ -28,6 +31,7 @@
             "rings": "No"
         },
         "Mars": {
+            "general": "The fourth planet from the Sun and the second-smallest planet in our Solar System. Also know as the Red Planet.",
             "distance": "227 * 10⁶ km",
             "speed": "86,677 km/h",
             "size": "163 * 10⁹ km³",
@@ -37,6 +41,7 @@
             "rings": "No"
         },
         "Jupiter": {
+            "general": "The fifth planet from the Sun and the largest in our Solar System, twice as massive as all the other planets combined.",
             "distance": "778 * 10⁶ km",
             "speed": "47,002 km/h",
             "size": "1,431,282 * 10⁹ km³",
@@ -46,6 +51,7 @@
             "rings": "Yes"
         },
         "Saturn": {
+            "general": "The sixth planet from the Sun and the second-largest in our Solar System, noted for its obvious ring structure.",
             "distance": "1,426 * 10⁶ km",
             "speed": "34,701 km/h",
             "size": "827,130 * 10⁹ km³",
@@ -55,6 +61,7 @@
             "rings": "Yes"
         },
         "Uranus": {
+            "general": "The seventh planet from the Sun and the third-largest in our Solar System. It is known as the “sideways planet” because it rotates on its side.",
             "distance": "2,870 * 10⁶ km",
             "speed": "24,477 km/h",
             "size": "68,334 * 10⁹ km³",
@@ -64,6 +71,7 @@
             "rings": "Yes"
         },
         "Neptune": {
+            "general": "The eighth and farthest-known solar planet, Neptune is also the fourth-largest in our Solar System, slightly more massive than its near-twin Uranus.",
             "distance": "4,498 * 10⁶ km",
             "speed": "19,566 km/h",
             "size": "62,525 * 10⁹ km³",
