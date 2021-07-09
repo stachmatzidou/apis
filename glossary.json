@@ -13,7 +13,7 @@
             "url": "https://stachmatzidou.github.io/images/images/brown%20dwarf.jpg"
         },
         "Comet": {
-            "definition": "A ball of rock and ice, often referred to as a \"dirty snowball.\" Typically a few kilometers in diameter, comets orbit the Sun in paths that either allow them to pass by the Sun only once or that repeatedly bring them through the solar system (as in the 76-year orbit of Halley's Comet). A comet's \"signature\" long, glowing tail is formed when the Sun's heat warms the coma or nucleus, which releases vapors into space.",
+            "definition": "A ball of rock and ice, typically a few kilometers in diameter, comets orbit the Sun in paths that either allow them to pass by the Sun only once or that repeatedly bring them through the solar system (as in the 76-year orbit of Halley's Comet). A comet's \"signature\" long, glowing tail is formed when the Sun's heat warms the coma or nucleus, which releases vapors into space.",
             "url": "https://stachmatzidou.github.io/images/images/comet.jpg"
         },
         "Constellation": {
@@ -49,7 +49,7 @@
             "url": "https://stachmatzidou.github.io/images/images/extrasolar%20planet.jpg"
         },
         "Galaxy": {
-            "definition": "A collection of stars, gas, and dust bound together by gravity. The smallest galaxies may contain only a few hundred thousand stars, while the largest galaxies have thousands of billions of stars. The Milky Way galaxy contains our solar system. Galaxies are classified or grouped by their shape. Round or oval galaxies are elliptical galaxies and those showing a pinwheel structure are spiral galaxies. All others are called irregular because they do not resemble elliptical or spiral galaxies.",
+            "definition": "A collection of stars, gas, and dust bound together by gravity. Galaxies are classified or grouped by their shape. Round or oval galaxies are elliptical galaxies and those showing a pinwheel structure are spiral galaxies. All others are called irregular galaxies.",
             "url": "https://stachmatzidou.github.io/images/images/galaxy.jpg"
         },
         "Galaxy Cluster": {
@@ -97,7 +97,7 @@
             "url": "https://stachmatzidou.github.io/images/images/neptune.jpg"
         },
         "Neutron Star": {
-            "definition": "An extremely compact ball of neutrons created from the central core of a star that collapsed under gravity during a supernova explosion. Neutron stars are extremely dense; they are only 10 kilometers or so in size, but have the mass of an average star (usually about 1.5 times more massive than our Sun). A neutron star that regularly emits pulses of radiation is known as a pulsar.",
+            "definition": "An extremely compact ball of neutrons created from the central core of a star that collapsed under gravity during a supernova explosion. Neutron stars are extremely dense; they are only 10 kilometers or so in size, but have the mass of an average star. A neutron star that regularly emits pulses of radiation is known as a pulsar.",
             "url": "https://stachmatzidou.github.io/images/images/neutron%20star.png"
         },
         "Nova": {
